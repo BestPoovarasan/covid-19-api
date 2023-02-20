@@ -1,6 +1,6 @@
 var div=document.createElement("div");
 // var input=document.createElement("input");
-div.innerHTML=`<input type="text" id="txt">
+div.innerHTML=`<input type="text" id="txt" placeholder="Enter your country">
 <button type="button" onclick="foo()">Search</button>
 <div id="active"></div>
 <div id="recovered"></div>
